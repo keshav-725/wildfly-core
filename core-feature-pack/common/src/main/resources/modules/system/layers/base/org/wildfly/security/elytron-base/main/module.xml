@@ -56,6 +56,7 @@
         <artifact name="${org.wildfly.security:wildfly-elytron-http-basic}"/>
         <artifact name="${org.wildfly.security:wildfly-elytron-http-bearer}"/>
         <artifact name="${org.wildfly.security:wildfly-elytron-http-cert}"/>
+        <artifact name="${org.wildfly.security:wildfly-elytron-http-client}"/>
         <artifact name="${org.wildfly.security:wildfly-elytron-http-digest}"/>
         <artifact name="${org.wildfly.security:wildfly-elytron-http-external}"/>
         <artifact name="${org.wildfly.security:wildfly-elytron-http-form}"/>
